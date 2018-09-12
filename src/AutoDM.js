@@ -34,5 +34,4 @@ const GenerateMessage = name => {
           I noticed that you love ILLENIUM! :D`; // your message
   // My message   return `Hi ${name} Thanks for being a part of my social media network. I'am the @PicsrushE founder,A new Online Image Editor completely with web technologies,I'm also a reactjs developer and medium blogger.\n Happy to discuss anytime 😊  \n Happy ${dayName} 😊😊 `;
 };
-
 module.exports = AutoDM;
